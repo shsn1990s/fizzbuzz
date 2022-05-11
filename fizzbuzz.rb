@@ -5,7 +5,7 @@ counter = 1
 def fizzbuzz(number)
 #while counter <= 20 do
   if number % 3 == 0 && number % 5 == 0
-    puts "FizzBuzz"
+    puts "fizzbuzz"
   elsif number % 3 == 0
     puts "fizz"
   elsif number % 5 == 0
